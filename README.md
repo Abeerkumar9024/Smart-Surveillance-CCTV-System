@@ -1,1 +1,0 @@
-# Smart-Surveillance-CCTV-System
